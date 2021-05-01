@@ -1,4 +1,4 @@
-# quzzler_game
+# quizzler_app
 
 A new Flutter project.
 
